@@ -1,1 +1,1 @@
-TEST
+Driver test for the ADS1299 ADC and LIS3DH 3-axis accelerometer
